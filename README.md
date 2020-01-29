@@ -32,5 +32,5 @@ Para instalar e rodar o projeto, você precisará de:
 Clone o projeto, e após isso, tendo nodejs já instalado:
 
 # Instale o yarn:
-Apos instalado, verifique se as dependências express e nodemon foram instaladas corretamente e rode # yarn dev
+Apos instalado, verifique se as dependências express e nodemon foram instaladas corretamente e rode o comando yarn dev
 
