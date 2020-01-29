@@ -43,3 +43,15 @@ Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando [
 - `DELETE /projects/:id`: A rota deve deletar o projeto com o `id` presente nos parâmetros da rota;
 
 - `POST /projects/:id/tasks`: A rota deve receber um campo `title` e armazenar uma nova tarefa no array de tarefas de um projeto específico escolhido através do `id` presente nos parâmetros da rota;
+
+#Pré-requisitos para instalar o projeto
+
+
+- Node, Yarn, Express e Nodemon
+
+# Instalação
+Clone o projeto, e apos isso tendo o node instalado:
+
+# Instale o yarnInstalar o Yarn
+yarn install, verifique as dependências express e nodemon foram instaladas corretamente e rode # yarn dev
+
