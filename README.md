@@ -52,6 +52,6 @@ Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando [
 # Instalação
 Clone o projeto, e apos isso tendo o node instalado:
 
-# Instale o yarnInstalar o Yarn
-yarn install, verifique as dependências express e nodemon foram instaladas corretamente e rode # yarn dev
+# Instale o yarn:
+Apos instalado, verifique se as dependências express e nodemon foram instaladas corretamente e rode # yarn dev
 
