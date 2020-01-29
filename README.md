@@ -22,11 +22,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+
 
 ## :rocket: Sobre o desafio
 
@@ -44,13 +40,12 @@ Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando [
 
 - `POST /projects/:id/tasks`: A rota deve receber um campo `title` e armazenar uma nova tarefa no array de tarefas de um projeto específico escolhido através do `id` presente nos parâmetros da rota;
 
-#Pré-requisitos para instalar o projeto
+# Para instalar e rodar o projeto, você precisará de:
 
-
-- Node, Yarn, Express e Nodemon
+# Node, Yarn, Express e Nodemon
 
 # Instalação
-Clone o projeto, e apos isso tendo o node instalado:
+Clone o projeto, e após isso, tendo o nodejs:
 
 # Instale o yarn:
 Apos instalado, verifique se as dependências express e nodemon foram instaladas corretamente e rode # yarn dev
