@@ -24,8 +24,8 @@ Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando [
 
 - `POST /projects/:id/tasks`: A rota deve receber um campo `title` e armazenar uma nova tarefa no array de tarefas de um projeto específico escolhido através do `id` presente nos parâmetros da rota;
 
-# Para instalar e rodar o projeto, você precisará de:
-
+# Instalação:
+Para instalar e rodar o projeto, você precisará de:
 # Node, Yarn, Express e Nodemon
 
 # Instalação
