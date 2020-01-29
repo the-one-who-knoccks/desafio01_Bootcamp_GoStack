@@ -29,7 +29,7 @@ Para instalar e rodar o projeto, você precisará de:
 # Node, Yarn, Express e Nodemon
 
 # Instalação
-Clone o projeto, e após isso, tendo o nodejs:
+Clone o projeto, e após isso, tendo nodejs já instalado:
 
 # Instale o yarn:
 Apos instalado, verifique se as dependências express e nodemon foram instaladas corretamente e rode # yarn dev
